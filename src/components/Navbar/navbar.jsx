@@ -61,9 +61,6 @@ export default function NavBar() {
                     </form>
 
                 </div>
-                <div className="icons d-flex gap-4">
-                    <Link to='/login' className="login" aria-label="Log in"><i className="fa-solid fa-circle-user"></i></Link>
-                </div>
             </div>
         </nav>
     )
