@@ -8,7 +8,7 @@ A responsive React web application for discovering recipes, organized by categor
 
 ## ✨ Overview
 
-Recipes is a front-end application built to make browsing recipes simple and enjoyable. It fetches both recipes and their categories directly from an external API, giving users an organized, up-to-date, and easy-to-navigate browsing experience.
+Recipes is a front-end application built with React and TypeScript to make browsing recipes simple and enjoyable. It fetches both recipes and their categories directly from an external API, giving users an organized, up-to-date, and easy-to-navigate browsing experience.
 
 ## 🚀 Key Features
 
@@ -21,16 +21,16 @@ Recipes is a front-end application built to make browsing recipes simple and enj
 ## 🛠️ Built With
 
 - React.js
+- TypeScript
 - React Router
-- JavaScript (ES6+)
 - CSS3 (Responsive Design)
 - REST API Integration
 
 ## 📌 What I Learned / Demonstrated
 
-- Fetching and displaying structured, categorized API data
+- Fetching and displaying structured, categorized API data with typed responses using TypeScript
 - Building intuitive category-based navigation flows
-- Managing dynamic state across multiple views
+- Managing dynamic state across multiple views with type safety
 - Creating a clean, responsive browsing experience from scratch
 
 ---
